@@ -1,0 +1,66 @@
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+        
+}
+
+
+body {
+    background-image: linear-gradient(to right, grey , whitesmoke);
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia;
+    text-transform: capitalize;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color:rgb(56, 50, 43);
+}
+
+.topnav a {
+    text-align: center;
+    padding: 15px 15px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav a:hover {
+    background-color:slategrey;
+    color: whitesmoke;
+}
+
+.topnav a:active {
+    background-color: saddlebrown;
+    color: whitesmoke;
+}
+
+p{
+    font-family: Helvetica;
+}
+
+.about {
+    text-align: center;
+}
+
+.work{
+    text-align: center;
+}
+
+.contact {
+    border: double black;
+}
+
+footer {
+    position:relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    
+}
+
